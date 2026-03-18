@@ -22,7 +22,7 @@
     --blur-strength: 4px;
 
     /* Transparent messagebox options */
-    --tm-enable: 1; /* 0 disables */
+    --tm-enable: 0; /* 0 disables */
     --tm-blur: calc(var(--enable-blur) * var(--blur-strength)); /* configure blur here */
 
     /* Unthemed popouts color*/
